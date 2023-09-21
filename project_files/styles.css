@@ -18,11 +18,6 @@ body {
   overflow: hidden;
 }
 .grid {
-  /* width: 606px;
-  height: 606px;
-  display: flex;
-  flex-wrap: wrap;
-  margin: auto; */
   display: grid;
   grid-template-columns: repeat(3, 200px);
 }
